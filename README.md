@@ -67,6 +67,16 @@ The dataset is a common benchmark in classification tasks and is ideal for demon
 
 - Deploy the model using Streamlit or Flask for real-time predictions. (MAYBE)
 
+## 🛠️ Tech Stack
+
+- Python (pandas, numpy, matplotlib, seaborn)
+
+- Scikit-learn
+
+- Imbalanced-learn (SMOTE, Tomek Links)
+
+- Jupyter Notebook
+
 ## 🚀 How to Run  
 1. Clone this repo:
    ```bash
