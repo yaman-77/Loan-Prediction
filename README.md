@@ -58,8 +58,17 @@ The dataset is a common benchmark in classification tasks and is ideal for demon
 
 ---
 
+---
+## 📌 Future Improvements
+
+- Try gradient boosting models (XGBoost, LightGBM, CatBoost).
+
+- Perform hyperparameter tuning with GridSearch/Optuna.
+
+- Deploy the model using Streamlit or Flask for real-time predictions. (MAYBE)
+
 ## 🚀 How to Run  
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/loan-prediction.git
+   git clone https://github.com/yaman-77/loan-prediction.git
    cd loan-prediction
